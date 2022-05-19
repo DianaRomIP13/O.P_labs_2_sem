@@ -1,0 +1,5 @@
+﻿  Header.cpp
+  Lab3.cpp
+  Создание кода...
+C:\Users\Asus\op_lab\second_sem\Lab3\C++\Lab3\Lab3\Header.cpp(50): warning C4715: FindTheMostCommonSymbolInGivenTexts: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> C:\Users\Asus\op_lab\second_sem\Lab3\C++\Lab3\x64\Debug\Lab3.exe
